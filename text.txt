@@ -1,0 +1,7 @@
+nodemon index.js
+ngrok.exe http 4000
+
+.env
+PORT=
+ACCESS_TOKEN=
+SECRET_TOKEN=
